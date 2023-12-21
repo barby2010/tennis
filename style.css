@@ -1,0 +1,24 @@
+body {
+    background-color: #fffde2;
+}
+h1 {
+    text-align: center;
+    color: darkseagreen;
+}
+h3 {
+    color:#acc286;
+}
+table {
+    border:10px outset rgb(124, 151, 93);
+    border-collapse:collapse
+}
+th {
+    border:1px solid rgb(74, 95, 51);
+    width:160px
+}
+td {
+    border:1px solid rgb(74, 95, 51);
+}
+ul {
+    list-style: url('icons8-теннис-21.png')
+}
